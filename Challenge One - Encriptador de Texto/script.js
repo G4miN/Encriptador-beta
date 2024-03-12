@@ -37,3 +37,5 @@ function desencriptar(stringDesencriptada) {
     }
     return stringDesencriptada
 }
+
+(() => {})
